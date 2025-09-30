@@ -11,4 +11,6 @@ quantitative developer for a year.
 # Interests 
 Here is some stuff I
 enjoy: 
-
+- Going to the gym
+- Cooking
+- Playing counter strike yeah buddy
