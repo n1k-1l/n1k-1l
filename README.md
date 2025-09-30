@@ -1,4 +1,4 @@
-# Ibroducing Nikhil
+# Introducing Nikhil
 
 ## Background
 
