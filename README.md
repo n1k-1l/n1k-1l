@@ -12,4 +12,4 @@ enjoy:
 - Playing counter strike yeah buddy
 
 ## Something to link
-[Clik this (or don't)](https://xkcd.com/1597/)
+[Click this (or don't)](https://xkcd.com/1597/)
