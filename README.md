@@ -11,5 +11,8 @@ enjoy:
 - Cooking
 - Playing counter strike yeah buddy
 
+## Previous Education
+_I studied Computer Science at Brown University_
+
 ## Something to link
 [Click this (or don't)](https://xkcd.com/1597/)
